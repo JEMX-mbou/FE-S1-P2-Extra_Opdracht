@@ -7,6 +7,10 @@ Kijk op Onderwijs Online voor de beoordeling!
 
 Lees goed: Met GitHub Classroom is de HTML en grid.css al aangeleverd. Er hoeven geen aanpassingen gemaakt te worden aan de index.html. Grid.css in combinatie met de classes zorgen dat bijna alle content al goed gepositioneerd worden.
 
+In te leveren:
+- style.scss
+- style.css
+
 ![image](https://user-images.githubusercontent.com/51715045/152798975-7652e33d-0b04-4545-8626-741e6c88556b.png)
 
 - Maak een style.scss aan en zorg dat die omgezet wordt naar style.css
